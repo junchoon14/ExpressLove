@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "抱歉（問問題時的開頭）"; ObjectID = "0e2-fu-fOW"; */
+"0e2-fu-fOW.normalTitle" = "抱歉（問問題時的開頭）";
+
+/* Class = "UIButton"; normalTitle = "對不起"; ObjectID = "8NU-bx-Aee"; */
+"8NU-bx-Aee.normalTitle" = "對不起";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9T1-9M-G5i"; */
+"9T1-9M-G5i.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "請問您從哪來。"; ObjectID = "E77-yT-91d"; */
+"E77-yT-91d.normalTitle" = "請問您從哪來。";
+
+/* Class = "UIButton"; normalTitle = "希望再見到你。"; ObjectID = "EY5-XI-4RQ"; */
+"EY5-XI-4RQ.normalTitle" = "希望再見到你。";
+
+/* Class = "UIButton"; normalTitle = "我來自台灣。"; ObjectID = "EY7-sj-gYB"; */
+"EY7-sj-gYB.normalTitle" = "我來自台灣。";
+
+/* Class = "UIButton"; normalTitle = "玩得快樂"; ObjectID = "Ejl-JM-ULd"; */
+"Ejl-JM-ULd.normalTitle" = "玩得快樂";
+
+/* Class = "UIButton"; normalTitle = "謝謝"; ObjectID = "R0f-op-3Kt"; */
+"R0f-op-3Kt.normalTitle" = "謝謝";
+
+/* Class = "UIButton"; normalTitle = "很高興見到你。"; ObjectID = "yRU-h2-Zo1"; */
+"yRU-h2-Zo1.normalTitle" = "很高興見到你。";
